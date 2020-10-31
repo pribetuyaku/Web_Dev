@@ -1,0 +1,3 @@
+Gitpod link: https://b4f12a74-3707-47c4-bda6-52359e9ce139.ws-eu01.gitpod.io/#/workspace/Web_Dev
+
+Github link: https://github.com/pribetuyaku/Web_Dev
